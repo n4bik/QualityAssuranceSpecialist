@@ -1,0 +1,26 @@
+{
+  "name": "qaspecialist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.3.0"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n4bik/QualityAssuranceSpecialist.git"
+  },
+  "author": "Tomasz Buga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n4bik/QualityAssuranceSpecialist/issues"
+  },
+  "homepage": "https://github.com/n4bik/QualityAssuranceSpecialist#readme"
+}
